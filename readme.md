@@ -7,9 +7,9 @@ I have written some _fun_ questions for anyone to attempt.
 - Understanding of ![sigma](https://latex.codecogs.com/svg.image?\sum&space;) function
 
 ## Questions:
-#### Question 1 [10]
+#### Question 1 [10] (GCSE, Σ)
 ![math-20220521](https://user-images.githubusercontent.com/48258855/169643136-7658832f-a7f1-4430-80de-759daf564520.png)
-#### Question 2 [6], [2]
+#### Question 2 [6], [2] (GCSE FM, integration)
 ![math-20220521 (2)](https://user-images.githubusercontent.com/48258855/169643277-e06b62ba-c894-4074-9ca1-90d0cfcaede0.png)
 ## Solutions:
 #### Solution 1
