@@ -6,4 +6,4 @@ I have written some _fun_ questions for anyone to attempt.
 - Basic understanding of integration
 - Understanding of ![sigma](https://latex.codecogs.com/svg.image?\sum&space;) function
 
-## Questions:
+#### Questions can be found in the pdf.
